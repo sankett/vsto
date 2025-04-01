@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="frm_coverpage">frm_CoverPage</h1>
 <p>The provided <a href="http://VB.NET">VB.NET</a> form (<code>frm_CoverPage</code>) is part of a VSTO (Visual Studio Tools for Office) add-in for PowerPoint. It is designed to manage and insert cover pages into PowerPoint presentations. Below is a detailed explanation of its functionality:</p>
