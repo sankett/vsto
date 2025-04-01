@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="frm_coverdatechange">frm_CoverDateChange</h1>
 <p>The  <code>frm_CoverDateChange</code>  form is a Windows Forms application designed for a VSTO (Visual Studio Tools for Office) add-in. It provides functionality to allow users to select and format a date for a PowerPoint presentation cover page. Below is a detailed explanation of its functionality:</p>
